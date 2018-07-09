@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1531129803 source:c:\users\cws4321123\downloads\rockscissorspaper\main.c
+	"common.h"
+	"game.h"
+
+1531121171 c:\users\cws4321123\downloads\rockscissorspaper\common.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1531124330 c:\users\cws4321123\downloads\rockscissorspaper\game.h
+
+1531126274 source:c:\users\cws4321123\downloads\rockscissorspaper\game.c
+	<time.h>
+	"common.h"
+	"game.h"
+
+1531129583 source:c:\users\cws4321123\downloads\rockscissorspaper\gametimes.c
+	"common.h"
+
+1531129569 source:c:\users\cws4321123\downloads\rockscissorspaper\gamemoney.c
+	"common.h"
+
+1531129885 source:c:\users\cws4321123\downloads\rockscissorspaper\gamecontinue.c
+	"common.h"
+	"gameTimes.h"
+	"gameMoney.h"
+
+1531129442 c:\users\cws4321123\downloads\rockscissorspaper\gametimes.h
+
+1531129366 c:\users\cws4321123\downloads\rockscissorspaper\gamemoney.h
+
